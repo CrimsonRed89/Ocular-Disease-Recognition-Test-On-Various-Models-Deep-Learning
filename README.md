@@ -2,7 +2,7 @@
 This repository showcases a comprehensive evaluation of various deep learning models on the Ocular Disease Intelligent Recognition (ODIR) dataset. The project includes a custom-built Deep Neural Network (DNN) designed to offer a comparative analysis against well-known architectures such as VGG, ResNet, and Inception. The primary objective is to assess the accuracy and effectiveness of these models in diagnosing multiple ocular diseases from retinal images.
 
 # Dataset
-The dataset used in this project is the Ocular Disease Recognition (ODIR) dataset, consisting of 5,000 retinal images labeled with conditions like diabetic retinopathy, glaucoma, and age-related macular degeneration. The dataset is directly imported from Kaggle. You can explore and download it here: #https://www.kaggle.com/datasets/andrewmvd/ocular-disease-recognition-odir5k
+The dataset used in this project is the Ocular Disease Recognition (ODIR) dataset, consisting of 5,000 retinal images labeled with conditions like diabetic retinopathy, glaucoma, and age-related macular degeneration. The dataset is directly imported from Kaggle. You can explore and download it here: https://www.kaggle.com/datasets/andrewmvd/ocular-disease-recognition-odir5k
 
 # Implementation
 The project is implemented in a single Python file, which includes the following steps:
